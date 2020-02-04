@@ -30,8 +30,8 @@ def mouseClicked():
 
 ```
 
-Whad did we lean?
-Basic commands
+Whad did we learn?
+We learned basic commands using circles in Python.
 
 Questions?
 Nothing
