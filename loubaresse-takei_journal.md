@@ -31,7 +31,11 @@ def mouseClicked():
 ```
 
 Whad did we learn?
-We learned basic commands using circles in Python.
+We learned basic commands in Python. We leaned differnt functions such as draw, fill, and text and practiced by adding color to the circles or changing their sizes.
 
 Questions?
 Nothing
+
+Homework for next class
+1 Add lines from the middle of the window to each circle
+2 Add lines from circle to circle
