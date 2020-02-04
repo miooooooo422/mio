@@ -1,7 +1,37 @@
 #This is my journal
 
-1) What did we do? We wrote instructions on how to make a jelly sandwich.
+What did we do?
+We worked on processing:
 
-2) What did you learn? That it was very hard to write a very specific set of instruction to convey what needed to be done
+we created:
+```.py
+def setup():
+    size(1000,1000)
+    background(255)
+    textAlign(CENTER)
 
-3) Questions i have? Nothing
+def draw():
+    print("")
+    
+def mouseClicked():
+    x = mouseX
+    y = mouseY
+    z = random(0,200)
+    myred = random (0,255)
+    myblue = random (0,255)
+    mygreen = random (0,255)
+    fill(myred, mygreen, myblue)
+    
+    circle(x, y, z)
+    fill(0)
+    textSize(z/3)
+    text ("M",x,y)
+
+
+```
+
+Whad did we lean?
+Basic commands
+
+Questions?
+Nothing
